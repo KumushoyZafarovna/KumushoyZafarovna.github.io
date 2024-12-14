@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Effra';
+    src: url('../fonts/Effra_Std_Rg.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'gooddognew';
+    src: url('../fonts/gooddognew.ttf') format('truetype');
+    font-weight: 400;
+}
